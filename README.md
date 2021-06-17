@@ -1,7 +1,7 @@
 # Open Data Trabajo Final de Clase
 Los datos utilizados para este proyecto son de la pagina de rondina, una tiendas de ropas. En donde tomamos en cuenta sus productos y precios para la realización del web scraping en el lenguaje Python.
 
-## herramientas utilizadas 
+## Herramientas utilizadas
 * google colab 
 * jupyter notebook 
 
