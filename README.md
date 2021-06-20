@@ -9,6 +9,11 @@ Para la primer parte es la elaboración de un plan de negocios es donde se busca
 * Plan financiero
 Para la segunda parte del trabajo los datos utilizados son de la pagina de rondina https://rondina.com.py/, una tiendas de ropas de industria nacional. En donde tomamos en cuenta los nombres de sus productos y precios para la realización del web scraping.
 
+## Objetivo del documento
+* Estructurar HTML con BeautifulSoup
+* Extraer información de sitios web con técnicas de web scraping
+* Aprender a extraer datos de una pagina web con paginación
+
 ## lenguaje utilizado
 Python
 
