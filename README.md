@@ -24,6 +24,10 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import requests
 ```
+## Despligue
+* Abrir Google colab
+* Levantar el archivo Rondina2.0.ipynb desde el UPLOAD
+* Ejecutar el archivo
 
 ## Autora
 * Karina Franco
