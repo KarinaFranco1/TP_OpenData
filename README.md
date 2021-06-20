@@ -18,13 +18,13 @@ Python
 
 ## Pre-requisitos
 Tener todas instaladas las librerías utilizadas:
-'''
+"
 import pandas as pd
 import time
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import requests
-'''
+"
 
 ## Autora
 * Karina Franco
