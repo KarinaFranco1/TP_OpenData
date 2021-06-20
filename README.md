@@ -16,7 +16,7 @@ Python
 * google colab 
 * jupyter notebook 
 
-# Librerias Utilidas
+## Librerias Utilidas
 ```
 import pandas as pd
 import time
