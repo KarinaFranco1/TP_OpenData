@@ -16,15 +16,14 @@ Python
 * google colab 
 * jupyter notebook 
 
-## Pre-requisitos
-Tener todas instaladas las librerías utilizadas:
-"
+# Librerias Utilidas
+```
 import pandas as pd
 import time
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import requests
-"
+```
 
 ## Autora
 * Karina Franco
